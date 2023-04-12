@@ -1,6 +1,6 @@
 ### Hi there 👋, Ali Darvishi
 #### Python Programmer / Data Science / Machine Learning
-![Python Programmer / Data Science / Machine Learning](https://pbs.twimg.com/profile_banners/796433244325494784/1681298037/1500x500)
+![Python Programmer / Data Science / Machine Learning](https://github.com/al102030/al102030/blob/main/Delivery.png)
 
 I'm Ali From Persia, and I do content on Development. I'm Python Programmer and really like learning in the field of A.I and Machine Learning as well as work in Data mining and Data science. I really enjoy Flask micro web framework and backend Programming in general.
 
