@@ -2,7 +2,7 @@
 # Hi there 👋 I'm Ali Darvishi
 #### Python Programmer / Data Science / Machine Learning
 
-I'm Ali From Persia, and I do content on Development. I'm Python Programmer and really like learning in the field of A.I and Machine Learning as well as work in Data mining and Data science. I really enjoy Flask micro web framework and backend Programming in general.
+I'm Ali, and I do content on Development. I'm Python Programmer and really like learning in the field of Machine Learning as well as work in Data science. I really enjoy Flask micro web framework and Django framework and backend Programming in general.
 
 ## Skills and Experience 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
