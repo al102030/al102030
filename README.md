@@ -1,4 +1,4 @@
-![Python Programmer / Data Science / Machine Learning](https://github.com/al102030/al102030/blob/main/GitHub%20Banner.png)
+![Python Programmer / Data Science / Machine Learning](https://github.com/al102030/al102030/blob/main/Banner.png)
 # Hi there 👋 I'm Ali Darvishi
 #### Python Programmer / Data Science / Machine Learning
 
